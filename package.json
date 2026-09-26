@@ -1,0 +1,19 @@
+{
+  "name": "lr8-wt-selenium-jest-ts",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.49.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.5.2",
+    "@types/selenium-webdriver": "^4.35.7",
+    "jest": "^30.1.3",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.9.2"
+  }
+}
